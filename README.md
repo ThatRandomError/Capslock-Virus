@@ -1,4 +1,6 @@
 # Capslock-Virus
-A Capslock virus when clicked on startes the virus and copys it self into windows startup folder
-it turns off and on caps lock to mess up peoples writing
-if you press the buttons q w o p at the same time it will stop the program
+A Caps Lock virus when clicked on startes the virus and copys it self into windows startup folder
+It turns off and on Caps Lock to mess up peoples writing
+If you press "q", "w", "o", & "p" at the same time it will stop the program
+
+**FOR EDUCATIONAL PURPOSES ONLY, NOT MALICIOUS PURPOSES**
